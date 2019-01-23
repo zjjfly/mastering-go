@@ -1,0 +1,12 @@
+hash: c0b914bf9e68424d04668144cf6a77a294d70169ca225c57230def0ea7a09e2d
+updated: 2019-01-15T22:50:17.910008+08:00
+imports:
+- name: github.com/mactsouk/go
+  version: 6a282087f7bd48ba0405e5ba7f5ff592b0ffdfeb
+  subpackages:
+  - simpleGitHub
+- name: github.com/stretchr/testify
+  version: 363ebb24d041ccea8068222281c2e963e997b9dc
+  subpackages:
+  - assert
+testImports: []
