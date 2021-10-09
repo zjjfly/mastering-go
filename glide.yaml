@@ -1,4 +1,0 @@
-package: MasteringGo
-import:
-  - package: github.com/mactsouk/go/simpleGitHub
-  - package: github.com/stretchr/testify/assert

@@ -13,3 +13,4 @@
 .idea/
 MasteringGo
 **/*.log
+go.sum
