@@ -1,4 +1,4 @@
-module github.com/zjjfly/MasteringGo
+module github.com/zjjfly/mastering-go
 
 go 1.17
 
